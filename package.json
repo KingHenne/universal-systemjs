@@ -1,0 +1,18 @@
+{
+  "name": "universal-systemjs",
+  "version": "1.0.0",
+  "description": "Universal wrapper around SystemJS 0.21.x",
+  "main": "index.js",
+  "browser": "browser.js",
+  "types": "index.d.ts",
+  "repository": "git@github.com:KingHenne/universal-systemjs.git",
+  "author": "Hendrik Liebau <mail@hendrik-liebau.de>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.2.0",
+    "systemjs": "^0.21.5"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.3"
+  }
+}
